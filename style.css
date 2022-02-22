@@ -1,0 +1,42 @@
+.page-header{
+	background: rgb(253,29,29);
+	background: linear-gradient(90deg, rgba(253,29,29,1) 26%, rgba(252,69,193,1) 100%); 
+	margin-top: 2rem; 
+	padding-top: 5rem; 
+	color: white; 
+	font-size: 1rem;
+	
+}  
+.middle-content{ 
+	background: rgb(253,29,29);
+	background: linear-gradient(90deg, rgba(253,29,29,1) 26%, rgba(252,69,193,1) 100%); 
+
+	 
+	color: white; 
+	font-size: 1rem; /*adding the same everything as before*/
+
+} 
+.icon-main{ 
+	background: rgb(253,29,29);
+	background: linear-gradient(90deg, rgba(253,29,29,1) 26%, rgba(252,69,193,1) 100%); 
+
+} 
+.gallery img{
+	border-radius:5%;
+} 
+.recommendations{ 
+	background: rgb(253,29,29);
+	background: linear-gradient(90deg, rgba(253,29,29,1) 26%, rgba(252,69,193,1) 100%); 
+	
+} 
+.footer{ 
+	background-color: black;
+
+	 
+	color: white; 
+	font-size: 1rem; /*adding the same everything as before*/
+
+} 
+@media(max-width:991px){
+
+}
